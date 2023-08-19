@@ -1,5 +1,7 @@
 # summary-components-flexbox
 
+https://anderson-fndz.github.io/summary-components-flexbox/
+
 Summary Components é um projeto que mostra componentes em forma de sumário, desafio proposto na plataforma Frontend Mentor, no link https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV.
 Meu objetivo em fazer esse challenge era colocar à prova os meus conhecimentos de HTML e CSS para ver se soluciono esse problema, e usando o que eu sei consegui desenvolver essa página, que particularmente fiquei satisfeito.
 
